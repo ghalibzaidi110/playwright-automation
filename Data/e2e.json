@@ -1,0 +1,23 @@
+{
+  "e2e": {
+    "username": "haristester01",
+    "password": "haristester01",
+    "expectedWelcome": "Hello haristester01!",
+    "location": "Sydney",
+    "hotel": "Hotel Creek",
+    "roomType": "Standard",
+    "numberOfRooms": "1 - One",
+    "checkInDate": "25/06/2027",
+    "checkOutDate": "27/06/2027",
+    "adultsPerRoom": "1 - One",
+    "childrenPerRoom": "0 - None",
+    "firstName": "John",
+    "lastName": "Doe",
+    "address": "123 Test Street Sydney",
+    "ccNumber": "4111111111111111",
+    "ccType": "VISA",
+    "ccExpiryMonth": "December",
+    "ccExpiryYear": "2028",
+    "cvv": "123"
+  }
+}
