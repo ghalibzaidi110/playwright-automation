@@ -5,23 +5,23 @@
     "expectedWelcome": "Hello haristester01!"
   },
   "hotelSearch": {
-    "location": "Sydney",
-    "hotel": "Hotel Creek",
+    "location": "Melbourne",
+    "hotel": "Hotel Sunshine",
     "roomType": "Standard",
-    "numberOfRooms": "1 - One",
+    "numberOfRooms": "3 - Three",
     "checkInDate": "25/06/2027",
     "checkOutDate": "27/06/2027",
-    "adultsPerRoom": "1 - One",
-    "childrenPerRoom": "0 - None"
+    "adultsPerRoom": "2 - Two",
+    "childrenPerRoom": "1 - One"
   },
   "booking": {
-    "firstName": "John",
-    "lastName": "Doe",
-    "address": "123 Test Street Sydney",
-    "ccNumber": "4111111111111111",
+    "firstName": "Baba",
+    "lastName": "Banduk",
+    "address": "123 Street Block 42 Melbourne",
+    "ccNumber": "4242424454342423",
     "ccType": "VISA",
     "ccExpiryMonth": "December",
-    "ccExpiryYear": "2028",
+    "ccExpiryYear": "2029",
     "cvv": "123"
   }
 }

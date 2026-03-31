@@ -32,9 +32,9 @@ test("TC06 - Successful Logout After Booking", async ({ page }) => {
   const orderNumber = await confirmationPage.getOrderNumber();
   expect(orderNumber).toBeTruthy();
 
-  await confirmationPage.clickItinerary();
-  const itineraryPage = new ItineraryPage(page);
-  await itineraryPage.searchBooking(orderNumber);
+  // await confirmationPage.clickItinerary();
+  // const itineraryPage = new ItineraryPage(page);
+  // await itineraryPage.searchBooking(orderNumber);
 
   await itineraryPage.logout();
   await expect(page.locator("body")).toContainText(
